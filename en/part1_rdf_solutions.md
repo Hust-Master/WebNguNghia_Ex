@@ -111,7 +111,7 @@ graph LR
 
 **Original graph:**
 
-![Exercise 4 graph from PDF](C:\Users\minhdn\.gemini\antigravity\brain\c77ac0c1-6a4c-4832-8404-fb590d5f7378\artifacts\ex4_graph.png)
+![Exercise 4 graph from PDF](./../page2_img1.png)
 
 **Turtle representation:**
 

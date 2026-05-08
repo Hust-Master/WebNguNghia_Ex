@@ -6,7 +6,7 @@
 
 **Original ontology diagram:**
 
-![RDFS Ontology from PDF](C:\Users\minhdn\.gemini\antigravity\brain\c77ac0c1-6a4c-4832-8404-fb590d5f7378\artifacts\rdfs_ontology.png)
+![RDFS Ontology from PDF](./../page3_img1.png)
 
 ### Natural Language Description
 

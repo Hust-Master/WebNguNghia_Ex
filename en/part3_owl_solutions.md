@@ -93,7 +93,7 @@ After reasoning: Grandiosa now has a country of origin. If a class like `America
 
 **Reference diagram:**
 
-![Medicinal Products diagram](C:\Users\minhdn\.gemini\antigravity\brain\c77ac0c1-6a4c-4832-8404-fb590d5f7378\artifacts\owl_ex2_diagram.png)
+![Medicinal Products diagram](./../page6_img1.png)
 
 ```turtle
 @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -182,7 +182,7 @@ Individual: Loperamide Types: ActiveSubstance
 
 **Reference diagram:**
 
-![Courses diagram](C:\Users\minhdn\.gemini\antigravity\brain\c77ac0c1-6a4c-4832-8404-fb590d5f7378\artifacts\owl_ex3_diagram.png)
+![Courses diagram](./../page6_img2.png)
 
 ```turtle
 @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
